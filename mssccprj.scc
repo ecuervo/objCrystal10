@@ -1,0 +1,13 @@
+[SCC]
+SCC=This is a source code control file
+[objCrystal.vbp]
+SCC_Project_Name ="$/objCrystal", ZHDAAAAA
+SCC_Aux_Path =\\visa\VisualSourceSafeDB\,
+
+[objCrystal9.vbp]
+SCC_Aux_Path =C:\DEV\VSS2008
+SCC_Project_Name ="$/objCrystal10", ULHAAAAA
+
+[objCrystal10.vbp]
+SCC_Aux_Path = "\\desaserver\D\SHARED\VisualSourceSafeDB"
+SCC_Project_Name = "$/A1A_COMPONENTES/objCrystal10", QIKBAAAA
